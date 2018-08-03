@@ -20,6 +20,7 @@ var c_options = {
     outlineColor: "white"
 } as atlas.Models.CircleProperties;
 
+
 let feature = new atlas.data.Feature(circle, c_options);
 
 m.addCircles([feature]);

@@ -1,8 +1,3 @@
-// import {ServiceOptions} from './Models/ServiceOptions';
-// import {CameraOptions} from './Models/CameraOptions';
-// import {StyleOptions} from './Models/StyleOptions';
-// import {UserInteractionOptions} from './Models/UserInteractionOptions';
-
 
 declare namespace atlas {
 
