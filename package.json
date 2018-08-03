@@ -1,0 +1,26 @@
+{
+  "name": "azure-maps-typescript-definitions-unofficial",
+  "version": "1.0.0",
+  "description": "TypeScript definitions for Azure Maps",
+  "main": "ts/azure-maps.d.ts",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perfahlen/Azure-Maps-TypeScript-Definitions.git"
+  },
+  "keywords": [
+    "Azure-Maps",
+    "TypeScript"
+  ],
+  "author": "Per Fahlén",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perfahlen/Azure-Maps-TypeScript-Definitions/issues"
+  },
+  "homepage": "https://github.com/perfahlen/Azure-Maps-TypeScript-Definitions#readme"
+}
