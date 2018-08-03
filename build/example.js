@@ -1,4 +1,4 @@
-/// <reference path="./../ts/azure-maps.d.ts" />
+/// <reference path="./../definition/azure-maps.d.ts" />
 let options = {
     "disable-telemetry": false,
     "subscription-key": "",
