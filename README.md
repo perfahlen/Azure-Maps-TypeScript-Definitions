@@ -11,3 +11,4 @@ npm i azure-maps-typescript-definitions-unofficial
 
 ```
 
+[Official Azure Maps TypeScript defintions is available here](https://www.npmjs.com/package/azure-maps-control)
